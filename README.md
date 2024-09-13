@@ -505,7 +505,7 @@ Donations
 ---------
 Below is my donation address. The original [credits](//github.com/sigwo/unified-node-open-mining-portal/blob/master/CREDITS.md) are listed here because I felt scammy if I totally removed them. They no longer are supporting the current development effort. Please donate to:
 
-* BTC: `19svwpxWAhD4zsfeEnnxExZgnQ46A3mrt3`
+* BTC: `1G9282iGFKRkwqSSqX6EztBjzU8uGhgJGX`
 
 Donors (email me to be added):
 * [elitemobb from altnuts.com](http://altnuts.com)
